@@ -1,0 +1,19 @@
+HTML CSS
+
+- Have 2 components: static web and dynamic web
+
+prettier: switch on other tabs, will be re_format
+
+show live : F1 -> show live
+
+tag wrap: highlight -> alt + w
+
+create standard : shirt + 1
+
+cop nhanh 1 dòng: shift + alt + [down]
+
+type demo quickly : lorem9
+
+--các loại thẻ
+
+<br> : ngắt dòng
